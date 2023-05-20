@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.topNav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 3px solid black;
+    width: 80%;
+}
+.list ul{
+    display: flex;
+    justify-content: space-around;
+}
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
